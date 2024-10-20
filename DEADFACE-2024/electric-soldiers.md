@@ -38,7 +38,7 @@ In "Steganography Script Update", we learn that the message is encoded in the Le
 
 ## Part 3: LSB
 
-Back in the hex editor, we can look at the start of the mp3. 
+Back in the hex editor, we can look at the start of the mp3. \
 ![](./assets/es05.png)\
 Then I copied the data that looked like it wasn't part of the header and used [CyberChef](<https://cyberchef.org/#recipe=From_Hex('Auto')To_Binary('Space',8)>) to convert it to binary. This will be what our script will run on. 
 
