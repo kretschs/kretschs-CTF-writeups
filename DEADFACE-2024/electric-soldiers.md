@@ -26,7 +26,7 @@ If we load `electricsoldiers.png` into a hex editor and select everything after 
 
 ## Part 2: the mp3
 
-Now we have a playable mp3 file. I was worried I would have to figure out something with the lyrics (hard to make out) and got stumped for a bit. I tried spectral analysis but there wasn't anything there. When I came back to it, I reread the challenge and saw something about "Ghost Town."
+Now we have a [playable mp3 file](https://github.com/kretschs/kretsch-CTF-writeups/raw/refs/heads/main/DEADFACE-2024/assets/electricsoldiers.mp3). I was worried I would have to figure out something with the lyrics (hard to make out) and got stumped for a bit. I tried spectral analysis but there wasn't anything there. When I came back to it, I reread the challenge and saw something about "Ghost Town."
 
 #### Ghost Town
 
